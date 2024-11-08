@@ -1,0 +1,9 @@
+pyautogui 
+pywinctl 
+mouse
+ujson
+pyscreeze
+keyboard
+loguru
+pillow
+numpy
